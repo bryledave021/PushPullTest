@@ -62,7 +62,8 @@ if __name__ == "__main__":
         ("PATEROS","MAKATI"),
         ("MAKATI","PASIG"),
         ("MAKATI","MUNTINLUPA"),
-        ("PASIG","MARIKINA")
+        ("PASIG","MARIKINA"),
+        ("MAKATI","MARIKINA")
         ]
 
     route_graph = Digraph(routes)
